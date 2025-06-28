@@ -1,0 +1,1 @@
+Hi people so this is my first project called RECIPIES its basic but later we'll make it advanced after learning required frameworks
